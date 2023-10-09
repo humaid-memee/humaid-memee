@@ -1,4 +1,7 @@
-### Hi there 👋
+### Kia Ora, I'm Humaid, a web developer based in Auckland, always eager for a challenge and new learning opportunities. 
+
+- 🔭 I’m currently working on [HomePage2](https://github.com/humaid-memee/HomePage2), a personal project to create a fully customizable homepage, that allows for resizing, moving, adding and removing components.
+
 
 <!--
 **humaid-memee/humaid-memee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
