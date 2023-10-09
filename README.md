@@ -1,4 +1,4 @@
-### Kia Ora, I'm Humaid
+# Kia Ora, I'm Humaid
 
 ## I'm a web developer based in Auckland, always eager for a challenge and new learning opportunities. 
 
@@ -14,6 +14,9 @@
 
 
 - You can also check out my [Todos](https://humaid-todos.devacademy.nz/) app, which I worked on and deployed while studying at DevAcadey.
+
+
+### Check out my [LinkedIn](https://www.linkedin.com/in/humaid-memee-66274a268/)
 
 <!--
 **humaid-memee/humaid-memee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
