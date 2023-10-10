@@ -12,7 +12,8 @@
 </br>
 
  - 👯 For my final group project at DevAcademy, I worked on [Clicky](https://github.com/humaid-memee/clicky), a browser game which allows you to train your mouse skills, useful for video gamers. While working on this project, I focused mostly on state management, utilising custom hooks, as well as end to end testing, utilising [Playwright](https://playwright.dev/).
-  - My group also participated in a Hackathon, were we learnt how to utilise [socket.io](https://socket.io/) in an effort to make Clicky a multiplayer game. We're still on our way to achieving our MVP, but have learned so much about web sockets in the process.
+
+   - My group also participated in a Hackathon, were we learnt how to utilise [socket.io](https://socket.io/) in an effort to make Clicky a multiplayer game. We're still on our way to achieving our MVP, but have learned so much about web sockets in the process.
 
 </br>
 
